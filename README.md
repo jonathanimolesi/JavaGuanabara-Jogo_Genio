@@ -8,7 +8,7 @@ Estudando Java com o Professor Guanabara
 | :label: Tecnologias | JAVA
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Jogo_Genio/main/Jogo%20do%20genio.png#vitrinedev)
 
 ## Detalhes do projeto
 
